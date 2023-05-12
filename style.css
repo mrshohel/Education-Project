@@ -1,0 +1,35 @@
+.navbar-brand img {
+  width: 130px;
+}
+.main-header {
+  margin-top: 50px;
+}
+.header-img {
+  width: 100%;
+  height: auto;
+}
+img.rounded.shadow-sm.full-width {
+  width: 100%;
+  height: auto;
+}
+
+.img-fluid img {
+  width: 50px;
+  height: auto;
+}
+.site-feature {
+  padding: 10px 0;
+}
+.subscribe {
+  background-image: url(img/subscribe.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.brand-icon img {
+  width: 150px;
+  height: auto;
+}
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: rgb(255 255 255 / 50%);
+}
